@@ -1,0 +1,7 @@
+- Rolle vergeben
+- Problem schildern
+- Variablen für 2 Kartennamen
+- Regelwerk übergeben
+- Ausgabeschema definieren:
+    - Antwort
+    - Paragraph aus dem Regelwerk
