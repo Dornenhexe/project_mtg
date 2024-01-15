@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-openai = "~=1.2.4"
+openai = "~=1.7.2"
 python-dotenv = "*"
 langchain = "~=0.0.335"
 
