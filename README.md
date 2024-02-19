@@ -4,6 +4,9 @@ Start with
 Install with
 ``pipenv install``
 
+Update/Load Pipfile
+``pipenv update -d``
+
 ## Probleme
 - Nutzung nur mit payed subscription/Guthaben von OpenAI möglich.
 - Große Textmenge an Chat GPT übergeben
