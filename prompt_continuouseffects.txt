@@ -1,0 +1,15 @@
+1. erhalte eine Karte
+2. verstehe, was eine Karte macht
+3. erhalte die zweite Karte
+4. verstehe die zweite Karte
+5. verstehe Regel 613
+6. gib das Ergebnis aus
+
+
+
+"""
+
+
+
+
+"""

@@ -7,34 +7,17 @@ Install with
 Update/Load Pipfile
 ``pipenv update -d``
 
-## Probleme
-- Nutzung nur mit payed subscription/Guthaben von OpenAI möglich.
-- Große Textmenge an Chat GPT übergeben
+Check Versions via: https://pypi.org/
 
+## Motivation
+This Notebook uses ChatGPT and a detailed prompt to answer rule questions for "continuous effects" in the cardgame Magic: The Gathering.
 
-## Benötigte Daten:
+It was made as a semester project for computer science in wintersemester 2023/24.
+
+## Prepositions
+- OpenAI/ChatGPT 3.5 Subscription
+
+##  Data
 - Rules: https://media.wizards.com/2023/downloads/MagicCompRules20230616.txt
   - als rules_shortened.txt auch in gekürzt auf relevante Parts
 - Errata über https://scryfall.com/ bzw. https://mtgjson.com/
-
-## Plan Projekt
-- Verbindung Chat Gpt - Langchain
-  - vektorisiertes Regelwerk per Langchain an Chat Gpt
-- Prompts für Aufgabenstellung testen
-  - Fragestellungen definieren & vergleichen
-- Zwischenfazit
-  - funktioniert es oder nicht?
-- Alternative:
-  - Regelabfrage algorithmisch lösen oder vorsortieren für KI-Abfrage
-    - Karten einordnen in Layer
-- Ausblick:
-  - Refaktoring von Notebook zu Python-Dateien
-  - graf. Oberfläche als Webanwendung
-- Ausarbeitung & Präsentation
-
-## Techstack
-- Chat GPT 3.5
-- Langchain
-- Git / Github (Link zum Projekt)
-- Pip Virtual Environment
-  
