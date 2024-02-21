@@ -7,9 +7,29 @@
 ## 29.02.2024
 - Feedbackgespräch
 
+## 22.01.2024
+- RAG 
+- Ausgabe im Notebook erweitern oder Ausgabe als .txt
+
 ## 21.02.2024
-- Entwurf Prompt
+- Testfälle definieren
+- Entwurf Prompt nach folgendem Muster:
+1. erhalte zwei Karten
+2. gib an, was die Regeln der beiden Karten sind
+3. stelle den Bezug zu Regel 613 her
+4. entscheide, was zutrifft: 
+    - timestamp
+    - dependency
+5. gib das Ergebnis aus
+6. begründe Ergebnis
+
 - Testen Prompt
+  - Punkte 1-3 funktionieren
+  - Entscheidung zwischen Timestamp & Dependency wird falsch getroffen, deshalb ist das Ergebnis falsch
+  - Ausgabe im Notebook zu kurz
+
+- ChatGPT sagt: "As of my last update in January 2022, I don't have access to the specific text of Magic: The Gathering's rule 613.7b. However, I can tell you that rule 613 generally pertains to continuous effects. If you need the most current version of this rule, I recommend checking the official Magic: The Gathering rules document, which is regularly updated by Wizards of the Coast, the company behind the game. You can find it on their website or through other reliable sources."
+  - Folglich: Regelwerk per RAG übergeben für hoffentlich präzisere Angaben
 
 ## 20.02.2024
 - Struktur Ausarbeitung
@@ -75,6 +95,8 @@
   - Alternative: ggf. müssen die Karten im Vorfeld erkannt werden und anhand ihrer Fähigkeiten vorgefiltert werden
   - also algorithmisch vorsortiert
 - vektorisiertes Regelwerk per Langchain an ChatGPT nötig oder ist das Wissen bereits vorhanden?
+  - Regelwerk veraltet Stand Januar 2022 -> das aktuelle muss übergeben werden
+- ggf. über scryfall API oder mtgjson API zuerst Gatherer Notes checken, ob der Fall schon behandelt wurde
 
 ## Prompts
 

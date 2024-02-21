@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="update pipfile &amp; fix dependencies">
-      <change afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="update README.md, write concept in progress.md">
+      <change afterPath="$PROJECT_DIR$/testcases.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,7 @@
       <workItem from="1708352591184" duration="186000" />
       <workItem from="1708352797687" duration="139000" />
       <workItem from="1708352990856" duration="5426000" />
-      <workItem from="1708433202305" duration="6186000" />
+      <workItem from="1708433202305" duration="15995000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708358705691</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update README.md, write concept in progress.md">
+      <option name="closed" value="true" />
+      <created>1708440854249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708440854249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated pipfile" />
     <MESSAGE value="update pipfile &amp; fix dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pipfile &amp; fix dependencies" />
+    <MESSAGE value="update README.md, write concept in progress.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md, write concept in progress.md" />
   </component>
 </project>
