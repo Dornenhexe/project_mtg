@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="update README.md, write concept in progress.md">
-      <change afterPath="$PROJECT_DIR$/testcases.md" afterDir="false" />
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="define testcases and write first prompt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rules_shortened.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/rules_shortened.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
@@ -119,7 +121,7 @@
       <workItem from="1708352591184" duration="186000" />
       <workItem from="1708352797687" duration="139000" />
       <workItem from="1708352990856" duration="5426000" />
-      <workItem from="1708433202305" duration="15995000" />
+      <workItem from="1708433202305" duration="26456000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -145,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708440854249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="define testcases and write first prompt">
+      <option name="closed" value="true" />
+      <created>1708523416444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708523416444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +176,7 @@
     <MESSAGE value="updated pipfile" />
     <MESSAGE value="update pipfile &amp; fix dependencies" />
     <MESSAGE value="update README.md, write concept in progress.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md, write concept in progress.md" />
+    <MESSAGE value="define testcases and write first prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="define testcases and write first prompt" />
   </component>
 </project>

@@ -7,9 +7,20 @@
 ## 29.02.2024
 - Feedbackgespräch
 
+## 23.02.2024
+- card1 & card2 als Daten übergeben (z.B. von mtgjson oder scryfall), nicht als string
+  - sonst Probleme mit Chain
+  - von scryfall via requests
+- Ausgabe im Notebook erweitern oder Ausgabe als .txt
+
 ## 22.01.2024
 - RAG 
-- Ausgabe im Notebook erweitern oder Ausgabe als .txt
+  - Documentloader
+  - Textsplitter
+  - VectorStore, Embeddings
+- LCEL für Chain mit RAG
+- Prompt gekürzt
+- Regelwerk gekürzt
 
 ## 21.02.2024
 - Testfälle definieren
@@ -58,6 +69,8 @@
   - Prompt
 - Problem: Antworten erscheinen richtig, enthalten aber Fehler
   - Halluzinationen (= Konfabulation) statt Regeln
+  - out of date  (Lösung: Regelwerk durch RAG)
+  - no sources (Lösung: Regelwerk durch RAG)
 - hier benötigt: jede Menge Domänenwissen (-> Aktualität für Machine Learning Fragen)
 - Aktuelle Themen: LLMs & RAG
 
@@ -91,11 +104,13 @@
   - durch Nachfragen kam das richtige Ergebnis
   - Schlussfolgerung: Prompt muss in Schritte aufgeteilt sein
 - langchain für gegliederte Prompts
+  - CoT = Chain of Thoughts -> gegliederte Prompts in Schritten
 - Idee: Prompt soll allgemein gültig sein für Regelfragen betreffend continuous effects
   - Alternative: ggf. müssen die Karten im Vorfeld erkannt werden und anhand ihrer Fähigkeiten vorgefiltert werden
   - also algorithmisch vorsortiert
 - vektorisiertes Regelwerk per Langchain an ChatGPT nötig oder ist das Wissen bereits vorhanden?
   - Regelwerk veraltet Stand Januar 2022 -> das aktuelle muss übergeben werden
+  - Kombination mit DSP = Directional Stimulus Prompting (-> Hinweise geben für spezifische Tasks)
 - ggf. über scryfall API oder mtgjson API zuerst Gatherer Notes checken, ob der Fall schon behandelt wurde
 
 ## Prompts
