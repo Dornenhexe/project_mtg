@@ -1,17 +1,13 @@
 ## Up next
-- write first prompt
-  - test prompt
-- create first case for testing
-- research how to give ChatGPT amount of text via langchain
+- Ausgabe im Notebook erweitern oder Ausgabe als .txt
+- fix type error in chain.invoke
 
 ## 29.02.2024
 - Feedbackgespräch
 
 ## 23.02.2024
-- card1 & card2 als Daten übergeben (z.B. von mtgjson oder scryfall), nicht als string
-  - sonst Probleme mit Chain
+- card1 & card2 als json dict übergeben, nicht als string
   - von scryfall via requests
-- Ausgabe im Notebook erweitern oder Ausgabe als .txt
 
 ## 22.01.2024
 - RAG 

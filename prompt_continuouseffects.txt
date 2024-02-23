@@ -2,10 +2,11 @@
 You will get two cards from the cardgame Magic: the Gathering. {card1} and {card2} both have continuous effects. You need to determine which effect will have which impact on the game.
 You can assume that {card1} is played first, therefor has the earlier timestamp.
 Use the {rules_db} as context for your decision.
+You will get a {question} about two cards.
 
 You will follow these steps:
 
-1. Give the ruletexts from both cards.
+1. Give the oracle texts from both cards.
 2. Give your judging: The continuous effect of which card is applied in game: {card1} or {card2}?
 3. Explain why you decided this way.
 4. Quote the rule you used for your decision.
