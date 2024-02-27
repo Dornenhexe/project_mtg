@@ -1,9 +1,33 @@
 ## Up next
-- Ausgabe im Notebook erweitern oder Ausgabe als .txt
-- fix type error in chain.invoke
+- prompt mit beispielen zu Layern? Karte in Layer vordefinieren?
+- ausprobieren:
+  - gesamtes Regelwerk
+  - zwei Schritte: 1. Karten in Layern zuordnen lassen 2. Regelentscheidung
+    - https://python.langchain.com/docs/modules/model_io/prompts/pipeline 
+  - Beispiele im Prompt ("Hard Prompt")?
 
 ## 29.02.2024
 - Feedbackgespräch
+
+## 28.02.2024
+- Anpassungen Prompt
+
+## 27.02.2024
+- Type Error in chain.invoke gefixed: json-cards als retriever (vectorstore)
+- Problem: nun werden zwei zufällige Karten gewählt
+- LLM vs ChatModel
+  - string vs messages für in- und output
+  - ChatModels haben zusätzlich Rollen (HumanMessage, AIMessage, SystemMessage), sind spezialisiert auf Gepräche
+  - LLMs für Text Vervollständigung 
+  - -> für den Case: LLM --> funktioniert nicht, Prompt zu lang
+- Partial_variables im prompt gewählt, um Card1 & 2 doch wiederrum als json übergeben zu können
+  - es funktioniert!
+- Antworten als .txt speichern um Fortschritt vergleichen zu können
+
+## 26.02.2024
+- Fehlersuche
+- Definition dritter Testcase: Possessed Nomad vs Humility
+  - Continuous effect auf mehreren Layern
 
 ## 23.02.2024
 - card1 & card2 als json dict übergeben, nicht als string
@@ -93,6 +117,7 @@
   - 613.7b: timestamp
   - 613.8: dependency
 - Motivation: Autorin selbst Spielerin: Wie detailliert kann LLM Fragen beantworten?
+- Einleitung: MtG als Turing-complete: https://arxiv.org/abs/1904.09828 
 
 ## Vorgehen
 - zuerst Fragen testen normal via ChatGPT: 
