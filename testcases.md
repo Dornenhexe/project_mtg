@@ -56,4 +56,24 @@ All creatures will be 4/4.
 ### First Opalescence, then Humility:
 All creatures will be 1/1.
 
+# 3. Case: Possessed Nomad vs. Humility
 
+### Possessed Nomad
+**Creature — Human Nomad Horror** {2}{W}{W}
+
+Rulestext: *Vigilance, Threshold — As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has “{2}{B}, {T}: Destroy target white creature.”* 
+https://scryfall.com/card/tor/13/possessed-nomad
+
+### Humility
+**Enchantment** {2}{W}{W} 
+
+Rulestext: *All creatures lose all abilities and have base power and toughness 1/1.* 
+https://scryfall.com/card/tpr/16/humility
+
+## Problem
+This case is the most complex. The abilities of *Possessed Nomad* happen in different layers: 
+- Layer 5: Colorchanging
+- Layer 6: A new ability is added
+- Layer 7: Power and Thoughness is changed
+
+## Expected Outcome

@@ -1,16 +1,27 @@
 ## Up next
 - prompt mit beispielen zu Layern? Karte in Layer vordefinieren?
 - ausprobieren:
-  - gesamtes Regelwerk
   - zwei Schritte: 1. Karten in Layern zuordnen lassen 2. Regelentscheidung
     - https://python.langchain.com/docs/modules/model_io/prompts/pipeline 
   - Beispiele im Prompt ("Hard Prompt")?
+- weiteres Beispiel: Grundlagen: eine Karte ohne continuous effects vs. Karte mit (Ebeene vs. Blood Moon)
+  - Ziel: Begründung muss stimmen
 
 ## 29.02.2024
 - Feedbackgespräch
 
 ## 28.02.2024
 - Anpassungen Prompt
+  - Layer im Vorfeld bestimmen
+- Ergebnis: 
+  - Urborg vs. Blood Moon wird korrekt erkannt, bei Blood Moon vs. Urborg wird sich auf immer noch auf Timestamp-Rule versteift
+- Anpassung: 
+  - komplettes Regelwerk übergeben
+- Ergebnis:
+  - Urborg vs Blood Moon korrekt erkannt, nicht mehr Timestamp rule, aber dafür 613.9 statt 613.8
+  - Blood Moon vs Urborg verwendet immer noch Timestamp rule
+- weiteres Beispiel testen: Humility vs. Opalescence
+- Ergebins: auch hier wird nur Rule 613.9 verwendet ...
 
 ## 27.02.2024
 - Type Error in chain.invoke gefixed: json-cards als retriever (vectorstore)
@@ -110,7 +121,7 @@
 - Definition von 3 Beispielfällen:
   - Bloodmoon vs. Urborg
   - Opalescence vs. Humility
-  - ?
+  - Possesed Nomad vs. Humility
 - Exkurs: Regeln für continuous effects mit Layern
   - einfach: bei einer Kreatur werden power/toughness vertauscht, dann erhält sie +1/+0
   - komplex: Layer/Sublayer
