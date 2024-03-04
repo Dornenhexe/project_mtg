@@ -17,6 +17,9 @@
 - Case 2 testen
   - im Judging falsch, aber in Begründung richtig
   - 2b komplett falsch
+  - mit card1 & card2 als earlier/later timestamp im Prompt ist Judging & Begründung richtig
+  - 2b wird immer noch als "earlier timestamp ist richtig" ausgegeben
+  - Durch Umstellung im Prompt: Case 2a & 2b richtig erkannt und begründet
 
 
 ## 01.03.2024
