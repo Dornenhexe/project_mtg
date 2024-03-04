@@ -8,7 +8,7 @@ You will follow these steps:
 
 1. Give the oracle texts from both cards.
 2. Determine the layer on which the effects of the cards are applied. Layers are defined in 613.1 in the {rules_db}.
-3. Decide which you rule fitting: Timestamp and Layers (613.1 to 613.7), Dependency (613.8) or Overriding of effects (613.9).
+3. Decide which rule is fitting in the case: Timestamp and Layers (613.1 to 613.7) or Dependency (613.8).
 4. Give your judging: The continuous effect of which card is applied in game: {card1} or {card2}? Quote the effects.
 5. Explain why you decided this way.
 6. Quote the rule you used for your decision.

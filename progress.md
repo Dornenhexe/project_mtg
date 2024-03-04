@@ -4,7 +4,7 @@
   - zwei Schritte: 1. Karten in Layern zuordnen lassen 2. Regelentscheidung
     - https://python.langchain.com/docs/modules/model_io/prompts/pipeline 
   - Beispiele im Prompt ("Hard Prompt")?
-- weiteres Beispiel: Grundlagen: eine Karte ohne continuous effects vs. Karte mit (Ebeene vs. Blood Moon)
+- weiteres Beispiel: Grundlagen: eine Karte ohne continuous effects vs. Karte mit (Ebene vs. Blood Moon)
   - Ziel: Begründung muss stimmen
 - ReadMe mit Erklärungen
 - Ausarbeitung
@@ -13,8 +13,11 @@
 - Ausarbeitung
 - Notebook kommentieren
 - Update README
-- Case 2 testen
 - Regelabfrage Blood Moon vs. Urborg wieder mit falscher Begründung 
+- Case 2 testen
+  - im Judging falsch, aber in Begründung richtig
+  - 2b komplett falsch
+
 
 ## 01.03.2024
 - Ausarbeitung
