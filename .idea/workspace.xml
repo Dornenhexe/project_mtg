@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="fixing type error by giving the cards as partial_variables in prompt; saving chatmodel answer as .txt">
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="complete rules as RAG, added second testcase to notebook">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases.md" beforeDir="false" afterPath="$PROJECT_DIR$/testcases.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,7 @@
       <workItem from="1708352990856" duration="5426000" />
       <workItem from="1708433202305" duration="35737000" />
       <workItem from="1708942897793" duration="6229000" />
-      <workItem from="1709028025961" duration="16428000" />
+      <workItem from="1709028025961" duration="25730000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -179,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709046483565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="complete rules as RAG, added second testcase to notebook">
+      <option name="closed" value="true" />
+      <created>1709126930488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709126930488</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="add RAG with loader, splitter &amp; vectorstore" />
     <MESSAGE value="get card informations via request and save as reduced json dict" />
     <MESSAGE value="fixing type error by giving the cards as partial_variables in prompt; saving chatmodel answer as .txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing type error by giving the cards as partial_variables in prompt; saving chatmodel answer as .txt" />
+    <MESSAGE value="complete rules as RAG, added second testcase to notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete rules as RAG, added second testcase to notebook" />
   </component>
 </project>

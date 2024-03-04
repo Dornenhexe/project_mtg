@@ -6,9 +6,23 @@
   - Beispiele im Prompt ("Hard Prompt")?
 - weiteres Beispiel: Grundlagen: eine Karte ohne continuous effects vs. Karte mit (Ebeene vs. Blood Moon)
   - Ziel: Begründung muss stimmen
+- ReadMe mit Erklärungen
+- Ausarbeitung
+
+## 04.03.2024
+- Ausarbeitung
+- Notebook kommentieren
+- Update README
+- Case 2 testen
+- Regelabfrage Blood Moon vs. Urborg wieder mit falscher Begründung 
+
+## 01.03.2024
+- Ausarbeitung
 
 ## 29.02.2024
 - Feedbackgespräch
+- Start Ausarbeitung
+- Regelabfrage Blood Moon vs. Urborg war bei Vorführung korrekt
 
 ## 28.02.2024
 - Anpassungen Prompt
