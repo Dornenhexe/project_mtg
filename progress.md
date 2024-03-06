@@ -9,6 +9,16 @@
 - ReadMe mit Erklärungen
 - Ausarbeitung
 
+## 06.03.2024
+- Ausarbeitung
+- Karten für zusätzliches ruling checken und übergeben: https://scryfall.com/docs/api/rulings
+  - ändert sich nichts mit aktuellem Prompt
+
+## 05.03.2024
+- Ausarbeitung
+- Prompt überarbeiten
+  - keine besseren Ergebnisse
+
 ## 04.03.2024
 - Ausarbeitung
 - Notebook kommentieren

@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="adding second testcase to notebook, minor changes in prompt">
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="editing prompt: new oder of tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases.md" beforeDir="false" afterPath="$PROJECT_DIR$/testcases.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
@@ -121,7 +123,7 @@
       <workItem from="1708433202305" duration="35737000" />
       <workItem from="1708942897793" duration="6229000" />
       <workItem from="1709028025961" duration="26451000" />
-      <workItem from="1709563290295" duration="4768000" />
+      <workItem from="1709563290295" duration="13261000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -203,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709564928446</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="editing prompt: new oder of tasks">
+      <option name="closed" value="true" />
+      <created>1709568125547</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709568125547</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +241,7 @@
     <MESSAGE value="complete rules as RAG, added second testcase to notebook" />
     <MESSAGE value="adding comments to notebook, update README.md" />
     <MESSAGE value="adding second testcase to notebook, minor changes in prompt" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding second testcase to notebook, minor changes in prompt" />
+    <MESSAGE value="editing prompt: new oder of tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="editing prompt: new oder of tasks" />
   </component>
 </project>

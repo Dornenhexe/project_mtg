@@ -40,7 +40,7 @@ Rulestext: *All creatures lose all abilities and have base power and toughness 1
 https://scryfall.com/card/tpr/16/humility
 
 ## Problem
-If both Humility is played, all creatures will be 1/1. But Opalescence states that every enchantment (in that case: Opalescence and Humilitiy) will be 4/4 creatures. 
+If Humility is played, all creatures will be 1/1. But Opalescence states that every enchantment (in that case: Opalescence and Humilitiy) will be 4/4 creatures. 
 This conflict is solved by the timestamp-rule 613.7.
 The outcome depends on which card is played first. 
 
