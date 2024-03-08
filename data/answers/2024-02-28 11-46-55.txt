@@ -1,0 +1,14 @@
+With complete rules text!
+
+
+1. Oracle texts:
+- Urborg, Tomb of Yawgmoth: "Each land is a Swamp in addition to its other land types."
+- Blood Moon: "Nonbasic lands are Mountains."
+
+2. The layer on which the effects of the cards are applied is Layer 4: Type-Changing Effects. This layer is where effects that change an object's card type, subtype, or supertype are applied.
+
+3. Judging: The continuous effect of the card that is applied in the game is Blood Moon.
+
+4. Explanation: In this case, both cards have continuous effects that change the types of lands. However, Blood Moon specifically targets nonbasic lands and changes them to Mountains. Since Blood Moon's effect is more specific and directly targets the type of lands it affects, it takes precedence over Urborg, Tomb of Yawgmoth's effect, which affects all lands.
+
+5. Rule used: According to rule 613.9, when two continuous effects are in conflict, the more specific effect takes precedence over the more general one.

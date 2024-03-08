@@ -1,0 +1,17 @@
+1. Oracle text of Opalescence: "Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value."
+Oracle text of Humility: "All creatures lose all abilities and have base power and toughness 1/1."
+
+2. I would choose to apply the Timestamp and Layers rule (613.1 to 613.7) in this case. According to this rule, when two continuous effects are in conflict, the one that was generated last "wins" if they do not depend on each other.
+
+3. Quoting rule 613.9: "One continuous effect can override another. Sometimes the results of one effect determine whether another effect applies or what another effect does."
+
+4. I would apply this rule because Opalescence and Humility are both continuous effects that are in conflict with each other. Opalescence turns enchantments into creatures with power and toughness equal to their mana value, while Humility sets all creatures' power and toughness to 1/1 and removes all abilities. Since these effects do not depend on each other, the one that was generated last (based on timestamp) will take precedence.
+
+5. In this case, since Humility was played after Opalescence, the effect of Humility would be applied in the game.
+
+6. Judging:
+The continuous effect of Humility is applied in the game.
+
+6a. Effects:
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.

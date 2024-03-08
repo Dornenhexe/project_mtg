@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+
+2. The effects of these cards are applied in the layers system, as described in rule 613.5.
+
+3. I will use the rule of Overriding of effects (613.9) to determine which continuous effect takes precedence.
+
+4. Judging: The continuous effect of the card 'Humility' is applied in the game. All creatures lose all abilities and have base power and toughness 1/1.
+
+5. Explanation: According to the rule of overriding effects (613.9), when two continuous effects are affecting the same object, the effect generated last "wins." Since 'Humility' was played after 'Opalescence', its effect of reducing all creatures' power and toughness to 1/1 will take precedence over Opalescence's effect of turning non-Aura enchantments into creatures with power and toughness equal to their mana value.
+
+6. Rule used: 613.9 - One continuous effect can override another.

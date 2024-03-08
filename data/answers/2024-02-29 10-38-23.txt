@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Blood Moon: "Nonbasic lands are Mountains."
+- Urborg, Tomb of Yawgmoth: "Each land is a Swamp in addition to its other land types."
+
+2. The effects of these cards are applied in Layer 4: Type-changing effects. This layer is where effects that change an object's card type, subtype, and/or supertype are applied.
+
+3. I will use the rule of Dependency (613.8) to make my decision.
+
+4. Judging: The continuous effect of Blood Moon is applied in the game. The effect is that nonbasic lands are Mountains.
+
+5. Explanation: According to the rule of Dependency (613.8), if an effect depends on another, the dependent effect is applied only if the independent effect is applied. In this case, the effect of Urborg, Tomb of Yawgmoth depends on the type of the lands, but since Blood Moon's effect changes the type of nonbasic lands to Mountains, the effect of Urborg, Tomb of Yawgmoth cannot be applied.
+
+6. Rule used: Dependency (613.8) - "An effect dependent on one or more other effects waits to apply until just after all of those effects have been applied."

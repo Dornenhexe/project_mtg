@@ -4,10 +4,13 @@
   - zwei Schritte: 1. Karten in Layern zuordnen lassen 2. Regelentscheidung
     - https://python.langchain.com/docs/modules/model_io/prompts/pipeline 
   - Beispiele im Prompt ("Hard Prompt")?
-- weiteres Beispiel: Grundlagen: eine Karte ohne continuous effects vs. Karte mit (Ebene vs. Blood Moon)
-  - Ziel: Begründung muss stimmen
-- ReadMe mit Erklärungen
 - Ausarbeitung
+
+## 07.03.2024
+- Ausarbeitung
+- Alter Prompt vom 28.02. mit komplettem Regelwerk & zusätzlichen Karteninfos:
+  - Urborg & Blood Moon funktioniert in beide Richtungen
+  - Humility & Opalescence nicht
 
 ## 06.03.2024
 - Ausarbeitung
@@ -115,73 +118,3 @@
 - Konzept & Idee
 - Projekt aufsetzen & erste Struktur
   - OpenAI einbinden
-
------------------
-
-# Struktur Ausarbeitung
-
-# Titel: Regelfragen zu "Continuous Effects" bei Magic: The Gathering per AI beantworten
-
-## Stand der Forschung
-- Definitionen: 
-  - LLM
-  - ChatGPT
-    - Wissen ChatGPT um MtG Rules
-  - Prompt
-- Problem: Antworten erscheinen richtig, enthalten aber Fehler
-  - Halluzinationen (= Konfabulation) statt Regeln
-  - out of date  (Lösung: Regelwerk durch RAG)
-  - no sources (Lösung: Regelwerk durch RAG)
-- hier benötigt: jede Menge Domänenwissen (-> Aktualität für Machine Learning Fragen)
-- Aktuelle Themen: LLMs & RAG
-
-## Techstack
-- Chat GPT 3.5
-- Langchain
-  - LCEL = Langchain Expression Language
-  - RAG = Retrieval Augmented Generation
-- Github https://github.com/Dornenhexe/project_mtg 
-- Pip Virtual Environment
-- Jupyter Notebook
-
-## Problemstellung
-- Leitfrage: Ist es möglich, mithilfe von ChatGPT komplexe Regelfragen zu klären?
-- Halluzinationen von LLMs umgehen durch konkrete Prompts 
-- Große Textmenge an Chat GPT übergeben
-- Definition von 3 Beispielfällen:
-  - Bloodmoon vs. Urborg
-  - Opalescence vs. Humility
-  - Possesed Nomad vs. Humility
-- Exkurs: Regeln für continuous effects mit Layern
-  - einfach: bei einer Kreatur werden power/toughness vertauscht, dann erhält sie +1/+0
-  - komplex: Layer/Sublayer
-  - 613.7b: timestamp
-  - 613.8: dependency
-- Motivation: Autorin selbst Spielerin: Wie detailliert kann LLM Fragen beantworten?
-- Einleitung: MtG als Turing-complete: https://arxiv.org/abs/1904.09828 
-
-## Vorgehen
-- zuerst Fragen testen normal via ChatGPT: 
-  - Antworten lasen sich gut und überzeugend, waren aber falsch
-  - durch Nachfragen kam das richtige Ergebnis
-  - Schlussfolgerung: Prompt muss in Schritte aufgeteilt sein
-- langchain für gegliederte Prompts
-  - CoT = Chain of Thoughts -> gegliederte Prompts in Schritten
-- Idee: Prompt soll allgemein gültig sein für Regelfragen betreffend continuous effects
-  - Alternative: ggf. müssen die Karten im Vorfeld erkannt werden und anhand ihrer Fähigkeiten vorgefiltert werden
-  - also algorithmisch vorsortiert
-- vektorisiertes Regelwerk per Langchain an ChatGPT nötig oder ist das Wissen bereits vorhanden?
-  - Regelwerk veraltet Stand Januar 2022 -> das aktuelle muss übergeben werden
-  - Kombination mit DSP = Directional Stimulus Prompting (-> Hinweise geben für spezifische Tasks)
-- ggf. über scryfall API oder mtgjson API zuerst Gatherer Notes checken, ob der Fall schon behandelt wurde
-
-## Prompts
-
-
-## Fazit
-
-## Ausblick
-- möglich wäre eigenes trainiertes/finetuning Modell
-  - Kosten vs. Nutzen
-- Refaktoring von Notebook zur Python-Anwendung, Umsetzen als (Web-)App
-- Ausbauen für andere Regelfragen

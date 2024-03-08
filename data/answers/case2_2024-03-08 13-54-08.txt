@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+
+2. The effects of these cards are applied in different layers according to the layer system in Magic: the Gathering. The effect of Humility, which removes all creature abilities and sets their power and toughness to 1/1, is applied in Layer 6 (ability-removing effects) and Layer 7b (power/toughness setting effects). On the other hand, the effect of Opalescence, which turns non-Aura enchantments into creatures with power and toughness equal to their mana value, is applied in Layer 4 (type-changing effects) and Layer 7b (power/toughness setting effects).
+
+3. I will use the rule of Overriding of effects (613.9) to determine which continuous effect takes precedence in this scenario.
+
+4. Judging: The continuous effect of Humility, which sets all creatures' power and toughness to 1/1 and removes all abilities, will be applied in the game.
+
+5. I decided this way because the effect of Humility specifically states that it removes all creature abilities and sets their power and toughness to 1/1. This effect is applied in Layer 6 and Layer 7b, which are relevant to ability removal and power/toughness setting. Since Humility has the earlier timestamp, its effect will override the effect of Opalescence in this case.
+
+6. Rule used: Overriding of effects (613.9) - One continuous effect can override another, and the effect with the earlier timestamp takes precedence.

@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Blood Moon: "Nonbasic lands are Mountains."
+- Urborg, Tomb of Yawgmoth: "Each land is a Swamp in addition to its other land types."
+
+2. The effects of these cards are applied in Layer 4 (Type-changing effects) and Layer 5 (Color-changing effects) according to the layer system in Magic: the Gathering.
+
+3. I will use the rule of Overriding of effects (613.9) to determine which continuous effect takes precedence.
+
+4. Judging: The continuous effect of Blood Moon, which turns nonbasic lands into Mountains, will be applied in the game.
+
+5. I decided this way because in the layer system, type-changing effects (Layer 4) take precedence over color-changing effects (Layer 5). Since Blood Moon's effect changes the type of lands, it will override Urborg's effect of changing the color of lands.
+
+6. Rule used: 613.9 - One continuous effect can override another.

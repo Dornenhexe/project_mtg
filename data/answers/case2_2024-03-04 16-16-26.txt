@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+
+2. The layer on which the effects of the cards are applied is Layer 4: Type-changing effects.
+
+3. I choose the Timestamp rule.
+
+4. Judging: The continuous effect of Humility is applied in the game. All creatures lose all abilities and have base power and toughness 1/1.
+
+5. I decided this way because according to the Timestamp rule, the effect of the card played later takes precedence over the effect of the card played earlier.
+
+6. Rule used for decision: Timestamp rule.

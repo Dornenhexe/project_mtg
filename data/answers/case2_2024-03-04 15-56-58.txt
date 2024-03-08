@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+
+2. The effects of these cards are applied in Layer 4 (Type-changing effects) and Layer 6 (Ability-removing effects) according to the layer system in Magic: the Gathering.
+
+3. In this case, we will use the Timestamp and Layers rule (613.1 to 613.7) to determine which continuous effect takes precedence.
+
+4. Judging: The continuous effect of Opalescence is applied in the game. The effect is: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+
+5. Explanation: According to the Timestamp and Layers rule, since Opalescence was played first and its effect falls in Layer 4 (Type-changing effects), it will be applied before Humility's effect in Layer 6 (Ability-removing effects). This means that all non-Aura enchantments will become creatures with power and toughness equal to their mana value before Humility's effect of setting all creatures' power and toughness to 1/1 takes place.
+
+6. The rule used for this decision is the Timestamp and Layers rule (613.1 to 613.7) in Magic: the Gathering.

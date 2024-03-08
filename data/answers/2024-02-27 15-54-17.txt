@@ -1,0 +1,9 @@
+1. Oracle texts:
+- Blood Moon: "Nonbasic lands are Mountains."
+- Urborg, Tomb of Yawgmoth: "Each land is a Swamp in addition to its other land types."
+
+2. Judging: The continuous effect of Blood Moon is applied in the game.
+
+3. Explanation: I decided to apply the continuous effect of Blood Moon because it was played first and has the earlier timestamp. According to Magic: the Gathering rules, when two continuous effects are in conflict, the one with the later timestamp "wins." In this case, Blood Moon was played first, so its effect of turning nonbasic lands into Mountains would take precedence over Urborg's effect of turning all lands into Swamps.
+
+4. Rule used: I used rule 613.9 from the Magic: the Gathering comprehensive rules, which states that one continuous effect can override another based on their timestamps.

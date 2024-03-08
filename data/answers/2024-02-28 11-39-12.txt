@@ -1,0 +1,11 @@
+1. Oracle texts:
+- Urborg, Tomb of Yawgmoth: "Each land is a Swamp in addition to its other land types."
+- Blood Moon: "Nonbasic lands are Mountains."
+
+2. The effects of these cards are applied in layer 4, the type-changing effects layer, as they both change the types of lands on the battlefield.
+
+3. Judging: The continuous effect of Blood Moon is applied in the game.
+
+4. I decided this way because according to the layer system in Magic: the Gathering, type-changing effects are applied in layer 4. Since Blood Moon specifically changes nonbasic lands to Mountains, its effect takes precedence over Urborg, Tomb of Yawgmoth's effect of making all lands Swamps in addition to their other types.
+
+5. Rule used: According to the layer system in Magic: the Gathering, type-changing effects are applied in layer 4. The effect that was generated last in timestamp order takes precedence in this layer.

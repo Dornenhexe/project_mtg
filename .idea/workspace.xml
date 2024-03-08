@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="editing prompt: new oder of tasks">
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="adding additional rulings to card informations via scryfall">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases.md" beforeDir="false" afterPath="$PROJECT_DIR$/testcases.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/cards" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.." />
     </key>
@@ -123,7 +125,8 @@
       <workItem from="1708433202305" duration="35737000" />
       <workItem from="1708942897793" duration="6229000" />
       <workItem from="1709028025961" duration="26451000" />
-      <workItem from="1709563290295" duration="13261000" />
+      <workItem from="1709563290295" duration="14844000" />
+      <workItem from="1709893205974" duration="4550000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -213,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709568125547</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adding additional rulings to card informations via scryfall">
+      <option name="closed" value="true" />
+      <created>1709732573705</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709732573706</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +253,7 @@
     <MESSAGE value="adding comments to notebook, update README.md" />
     <MESSAGE value="adding second testcase to notebook, minor changes in prompt" />
     <MESSAGE value="editing prompt: new oder of tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="editing prompt: new oder of tasks" />
+    <MESSAGE value="adding additional rulings to card informations via scryfall" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding additional rulings to card informations via scryfall" />
   </component>
 </project>
