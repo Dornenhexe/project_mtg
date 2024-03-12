@@ -1,9 +1,17 @@
 ## Up next
-- prompt mit beispielen zu Layern? Karte in Layer vordefinieren?
+- Karteninformationen in einer Abfrage holen & speichern
 - ausprobieren:
   - zwei Schritte: 1. Karten in Layern zuordnen lassen 2. Regelentscheidung
-    - https://python.langchain.com/docs/modules/model_io/prompts/pipeline 
-  - Beispiele im Prompt ("Hard Prompt")?
+    - https://python.langchain.com/docs/modules/model_io/prompts/pipeline
+- Ausarbeitung
+
+## 12.03.2024
+- Prompt
+
+## 11.03.2024
+- Ausarbeitung
+
+## 08.03.2024
 - Ausarbeitung
 
 ## 07.03.2024

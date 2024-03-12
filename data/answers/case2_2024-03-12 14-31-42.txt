@@ -1,0 +1,15 @@
+1. Oracle texts and comments:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1. Comments: The interaction between Humility and Opalescence involves layer 4 for type-changing effects, followed by applicable layers for the rest of the effects. The order of timestamps determines the outcome of the creatures' power and toughness.
+- Opalescence: Each other non-Aura enchantment is a creature with base power and toughness equal to its mana value. Comments: Opalescence interacts with Humility in layer 4 for type-changing effects and has specific interactions based on timestamp order.
+
+2. Layers:
+The effects of Humility and Opalescence are applied in layer 4 for type-changing effects, followed by other applicable layers for the rest of the effects.
+
+3. Rule:
+We will apply the Timestamp and Layers rule (613.1 to 613.7) to determine the outcome of the continuous effects.
+
+4. Judging:
+The continuous effect of Humility is applied in the game. The effect states: "All creatures lose all abilities and have base power and toughness 1/1."
+
+5. Explanation:
+Based on the Timestamp and Layers rule, we consider the order of timestamps to determine the outcome of continuous effects. In this case, Humility was played first and has the earlier timestamp. Therefore, its effect of reducing all creatures' abilities and setting their power and toughness to 1/1 will take precedence over Opalescence's effect. This decision ensures consistency in applying continuous effects in Magic: the Gathering.

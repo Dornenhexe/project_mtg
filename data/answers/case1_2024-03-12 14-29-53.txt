@@ -1,0 +1,19 @@
+1. Oracle texts and comments:
+- Urborg, Tomb of Yawgmoth:
+    - Oracle text: Each land is a Swamp in addition to its other land types.
+    - Comments: Urborg's ability causes each land on the battlefield to have the land type Swamp. Any land that's a Swamp has the ability "{T}: Add {B}". Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary, basic, or snow.
+- Blood Moon:
+    - Oracle text: Nonbasic lands are Mountains.
+    - Comments: Nonbasic lands will lose any other land types and abilities they had. They will gain the land type Mountain and gain the ability "{T}: Add {R}". This effect doesn't affect names or supertypes.
+
+2. Layer determination:
+The effects of Urborg, Tomb of Yawgmoth and Blood Moon fall under the dependency layer as they both modify the characteristics of lands on the battlefield.
+
+3. Rule choice:
+I will apply the Dependency rule (613.8) to determine which continuous effect takes precedence.
+
+4. Judging:
+The continuous effect of Urborg, Tomb of Yawgmoth is applied in the game.
+
+5. Explanation:
+According to the Dependency rule (613.8), when two continuous effects are dependent on one another, the effect that was generated last takes precedence. In this case, Urborg, Tomb of Yawgmoth's effect of turning all lands into Swamps overrides Blood Moon's effect of turning nonbasic lands into Mountains. Since Urborg's effect was applied last, it will be the one that is active in the game, making all lands on the battlefield Swamps in addition to their other types.

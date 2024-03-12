@@ -1,0 +1,13 @@
+1. Oracle texts:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+
+2. The effects of these cards are applied in different layers. Humility's effect of setting all creatures' power and toughness to 1/1 is applied in layer 7b, while Opalescence's effect of turning non-Aura enchantments into creatures with power and toughness equal to their mana value is applied in layer 4.
+
+3. The rule that is fitting for this situation is the Timestamp and Layers rule (613.1 to 613.7). This rule states that effects are applied in layers based on their timestamps, with later effects overriding earlier ones in the same layer.
+
+4. Judging:
+The continuous effect that is applied in the game is Opalescence's effect. This is because Opalescence's effect of turning non-Aura enchantments into creatures with power and toughness equal to their mana value is applied in layer 4, which is earlier than Humility's effect in layer 7b.
+
+5. Explanation:
+Based on the Timestamp and Layers rule, effects are applied in specific layers based on their timestamps. In this case, Opalescence's effect of turning enchantments into creatures with power and toughness equal to their mana value takes precedence over Humility's effect of setting all creatures' power and toughness to 1/1. Therefore, in the game, all non-Aura enchantments will become creatures with power and toughness equal to their mana value as per Opalescence's effect.

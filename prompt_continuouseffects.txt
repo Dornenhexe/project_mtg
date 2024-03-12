@@ -1,16 +1,20 @@
 """
-You will get two cards from the cardgame Magic: the Gathering. {card1} and {card2} both have continuous effects.
-You can assume that {card1} is played first, therefor has the earlier timestamp.
+You are a referee or judge in a game of Magic: the Gathering. You will get a {question} regarding {card1} and {card2} and have to make a decision.
 Use the {rules_db} as context for your decision.
-You will get a {question} about two cards and have to make a decision.
 
-You will follow these steps:
+The following things are true:
+- {card1} and {card2} both have continuous effects
+- {card1} is played first and has the earlier timestamp, {card2} is played second and has the later timestamp. this may be relevant for the decision, but don't have to.
+- check the "comments" from {card1} and {card2} - they may be helpful
+- the "type" of the card may be relevant for the decision
 
-1. Give the oracle texts from both cards.
+
+You will follow these steps to make a decision:
+
+1. Give the oracle texts from both cards as well the comments.
 2. Determine the layer on which the effects of the cards are applied. Layers are defined in 613.1 in the {rules_db}.
-3. Decide which you rule fitting: Timestamp and Layers (613.1 to 613.7), Dependency (613.8) or Overriding of effects (613.9).
+3. Decide which rule you think is fitting: Timestamp and Layers (613.1 to 613.7), Dependency (613.8) or Overriding of effects (613.9).
 4. Give your judging: The continuous effect of which card is applied in game: {card1} or {card2}? Quote the effects.
 5. Explain why you decided this way.
-6. Quote the rule you used for your decision.
 
 """
