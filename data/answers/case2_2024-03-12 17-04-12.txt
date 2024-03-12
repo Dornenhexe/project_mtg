@@ -1,0 +1,19 @@
+1. Oracle texts and comments:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Comments: The interaction between Humility and Opalescence involves layer 4 for type-changing effects, with the rest happening in subsequent layers. The outcome depends on the timestamp order of the cards on the battlefield.
+
+2. Layers:
+The effects of Humility and Opalescence are applied in different layers according to the rules of Magic: The Gathering. Humility's effect of removing all abilities and setting power/toughness to 1/1 is applied in layer 6, while Opalescence's effect of turning enchantments into creatures with power/toughness equal to their mana value is applied in layer 4.
+
+3. Rule choice:
+Considering the interaction between Humility and Opalescence, the most appropriate rule to apply is the Timestamp and Layers rule (613.1 to 613.7). This rule determines the order in which continuous effects are applied based on their timestamps.
+
+4. Summary of the rule:
+The Timestamp and Layers rule states that continuous effects are applied in a specific order based on their timestamps. Effects with earlier timestamps are applied first, followed by effects with later timestamps. This ensures consistency and fairness in resolving conflicting continuous effects.
+
+5. Judging:
+Based on the chosen rule, the continuous effect of the card with the earlier timestamp takes precedence. In this case, since Humility was played first and has the earlier timestamp, its effect of setting all creatures to 1/1 with no abilities would be applied over Opalescence's effect. Therefore, in the game scenario described, all creatures would be 1/1 with no abilities due to Humility's continuous effect.
+
+6. Explanation:
+By applying the Timestamp and Layers rule, we ensure that the game state is resolved in a consistent and fair manner. In this specific case, Humility's effect takes precedence over Opalescence's effect due to its earlier timestamp, resulting in all creatures being 1/1 with no abilities. This ruling maintains the integrity of the game and follows the established rules of Magic: The Gathering.

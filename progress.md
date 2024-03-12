@@ -7,6 +7,7 @@
 
 ## 12.03.2024
 - Prompt
+- Card-Informationen refactor
 
 ## 11.03.2024
 - Ausarbeitung

@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="save &amp; load cardinformations for quicker testing, refractor &amp; clean up,back to old prompt">
-      <change afterPath="$PROJECT_DIR$/data/old_prompts.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cards/bloodmoon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cards/humility.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cards/opalescence.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cards/urborg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/old_prompts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/old_prompts.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
@@ -130,7 +126,7 @@
       <workItem from="1709028025961" duration="26451000" />
       <workItem from="1709563290295" duration="14844000" />
       <workItem from="1709893205974" duration="4684000" />
-      <workItem from="1710237125283" duration="4677000" />
+      <workItem from="1710237125283" duration="8725000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -236,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709903689565</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="save &amp; load cardinformations for quicker testing, refractor &amp; clean up,back to old prompt">
+      <option name="closed" value="true" />
+      <created>1710251308559</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710251308559</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

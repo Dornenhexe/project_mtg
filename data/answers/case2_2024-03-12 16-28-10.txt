@@ -1,0 +1,19 @@
+1. Oracle texts and comments:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1.
+- Opalescence: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+- Comments: The interaction between Humility and Opalescence involves layer 4 for type-changing effects, with the rest happening in subsequent layers. The timestamp order determines the outcome, with different power and toughness values depending on the order of entry onto the battlefield.
+
+2. Layers:
+The effects of Humility and Opalescence are applied in different layers according to the rules of Magic: the Gathering. Humility's effect of setting all creatures' power and toughness to 1/1 is applied in layer 7b, while Opalescence's effect of turning enchantments into creatures with power and toughness equal to their mana value is applied in layer 4.
+
+3. Rule choice:
+The rule of Timestamp and Layers (613.1 to 613.7) is the most fitting for this situation as it determines the order in which continuous effects are applied based on their timestamps.
+
+4. Rule summary:
+In Magic: the Gathering, when multiple continuous effects are applied to the same object, the effects are applied in layers according to their timestamps. Effects with earlier timestamps are applied first, and effects with later timestamps are applied later, potentially overriding previous effects.
+
+5. Judging decision:
+The continuous effect of Opalescence is applied in the game. Quote: "Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value."
+
+6. Explanation:
+Since Opalescence has the later timestamp compared to Humility, its effect takes precedence in the layer system of Magic: the Gathering. This means that all other non-Aura enchantments, including Humility, will become creatures with power and toughness equal to their mana value, as dictated by Opalescence's effect.

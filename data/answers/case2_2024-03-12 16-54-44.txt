@@ -1,0 +1,31 @@
+1. Oracle texts and comments:
+- Urborg, Tomb of Yawgmoth:
+    - Oracle text: Each land is a Swamp in addition to its other land types.
+    - Comments: 
+        - Urborg, Tomb of Yawgmoth isn't a Swamp while it's not on the battlefield.
+        - Land cards not on the battlefield aren't Swamps while Urborg is on the battlefield.
+        - Urborg's ability causes each land on the battlefield to have the land type Swamp. Any land that's a Swamp has the ability "{T}: Add {B}". Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary, basic, or snow.
+        - If an effect such as that of Magus of the Moon causes Urborg to lose its abilities by setting it to a basic land type not in addition to its other types, it won't turn lands into Swamps, no matter in what order those effects started to apply.
+
+- Blood Moon:
+    - Oracle text: Nonbasic lands are Mountains.
+    - Comments:
+        - If a nonbasic land has an ability that triggers “when” it enters the battlefield, it will lose that ability before it can trigger.
+        - If a nonbasic land has an ability that causes it to enter the battlefield tapped, it will lose that ability before it can apply. The same is also true of any other abilities that modify how a land enters the battlefield or apply “as” a land enters the battlefield, such as the first ability of Cavern of Souls.
+        - Nonbasic lands will lose any other land types and abilities they had. They will gain the land type Mountain and gain the ability “{T}: Add {R}".
+        - This effect doesn't affect names or supertypes. It won't turn any land into a basic land or remove the legendary supertype from a legendary land, and the lands won't be named “Mountain".
+
+2. Determine the layer on which the effects of the cards are applied:
+The effects of Urborg, Tomb of Yawgmoth and Blood Moon fall under Layer 4: Type Changing Effects, as they both change the types of lands on the battlefield.
+
+3. Decide which rule to apply:
+I will apply the rule of Dependency (613.8) to determine which continuous effect takes precedence in this scenario.
+
+4. Rule summary:
+Dependency (613.8) states that if one continuous effect depends on another, the dependent effect is applied first.
+
+5. Judging:
+The continuous effect of Blood Moon, which turns nonbasic lands into Mountains, is dependent on the continuous effect of Urborg, Tomb of Yawgmoth, which turns all lands into Swamps. Therefore, Urborg's effect will be applied first, making all lands Swamps, and then Blood Moon's effect will turn those Swamps into Mountains.
+
+6. Explanation:
+By applying the rule of Dependency, we ensure that the effects are resolved in the correct order based on their dependency. In this case, Urborg's effect must be applied first to establish the lands as Swamps before Blood Moon can turn them into Mountains. This ruling maintains the logical sequence of events and follows the game's rules accurately.
