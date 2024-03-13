@@ -1,0 +1,18 @@
+1. Oracle texts and comments:
+- Urborg, Tomb of Yawgmoth: Each land is a Swamp in addition to its other land types. Comments include that Urborg isn't a Swamp while not on the battlefield, it causes each land on the battlefield to have the land type Swamp, and any land that's a Swamp has the ability "{T}: Add {B}".
+- Blood Moon: Nonbasic lands are Mountains. Comments include that nonbasic lands will lose any other land types and abilities they had, gain the land type Mountain, and gain the ability "{T}: Add {R}".
+
+2. Determine the layer on which the effects of the cards are applied:
+The effects of Urborg, Tomb of Yawgmoth and Blood Moon fall under the dependency layer as they both modify the characteristics of lands.
+
+3. Rule choice:
+I choose the Dependency rule (613.8) as it deals with continuous effects that depend on other continuous effects.
+
+4. Rule summary:
+Dependency (613.8) states that continuous effects are applied in timestamp order, but dependencies may override this order.
+
+5. Judging:
+The continuous effect of Blood Moon is applied in the game. Urborg, Tomb of Yawgmoth's effect of making each land a Swamp in addition to its other types is dependent on the type of the land, and since Blood Moon changes nonbasic lands to Mountains, the dependency rule dictates that Blood Moon's effect takes precedence.
+
+6. Explanation:
+According to the Dependency rule, when continuous effects depend on each other, the effect that creates the dependency takes precedence. In this case, Blood Moon's effect of changing nonbasic lands to Mountains creates a dependency that overrides Urborg, Tomb of Yawgmoth's effect of turning lands into Swamps. Therefore, in this scenario, the final board state would have nonbasic lands as Mountains due to the effect of Blood Moon.

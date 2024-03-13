@@ -1,0 +1,18 @@
+1. **Opalescence**:
+   - Oracle Text: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+   - Comments: The card explains the interaction with **Humility** and provides examples of how the effects apply based on timestamp order.
+
+2. **Humility**:
+   - Oracle Text: All creatures lose all abilities and have base power and toughness 1/1.
+   - Comments: The card explains the interaction with **Opalescence** and provides examples of how the effects apply based on timestamp order.
+
+3. The effects of both cards are applied in different layers. The effect of **Opalescence** is applied in Layer 4, while the effect of **Humility** is applied in Layer 6.
+
+4. **Rule Choice: Layers (613.1 to 613.7)**
+   - This rule governs the order in which continuous effects are applied based on the layers defined in the game.
+
+5. **Judging Decision**:
+   - Based on the chosen rule of Layers, the continuous effect of **Humility** will be applied in the game. This means that all creatures will lose all abilities and have base power and toughness 1/1.
+
+6. **Explanation**:
+   - The decision to apply the effect of **Humility** over **Opalescence** is based on the layer system in Magic: The Gathering. Since **Humility**'s effect is applied in Layer 6, which comes after Layer 4 where **Opalescence**'s effect is applied, the effect of **Humility** takes precedence. This ruling ensures that all creatures on the battlefield will have their abilities removed and their power and toughness set to 1/1.

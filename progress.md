@@ -5,6 +5,10 @@
     - https://python.langchain.com/docs/modules/model_io/prompts/pipeline
 - Ausarbeitung
 
+## 13.03.2024
+- Prompt
+- Ausarbeitung
+
 ## 12.03.2024
 - Prompt
 - Card-Informationen refactor

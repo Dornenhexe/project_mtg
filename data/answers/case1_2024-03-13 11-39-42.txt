@@ -1,0 +1,18 @@
+1. Oracle texts and comments:
+- Urborg, Tomb of Yawgmoth: Each land is a Swamp in addition to its other land types. Comments include details about how Urborg's ability works on the battlefield and interactions with other effects like Magus of the Moon.
+- Blood Moon: Nonbasic lands are Mountains. Comments explain the implications of this effect on nonbasic lands and how it interacts with other abilities.
+
+2. Determine the layer on which the effects of the cards are applied:
+The effects of Urborg, Tomb of Yawgmoth and Blood Moon fall under layer 4, the type-changing effects layer, as they both modify the types of lands on the battlefield.
+
+3. Decide on the fitting rule:
+In this scenario, the most fitting rule to apply is the Dependency rule (613.8). This rule states that if the application of one continuous effect depends on another, the dependent effect is applied first.
+
+4. Rule summary:
+Dependency (613.8): When the application of one continuous effect depends on another, the dependent effect is applied first.
+
+5. Judging regarding the chosen rule:
+The continuous effect of Urborg, Tomb of Yawgmoth is applied in the game. This means that each land on the battlefield is considered a Swamp in addition to its other types, as per Urborg's ability. Any land that becomes a Swamp due to Urborg's effect will also gain the ability to tap for black mana.
+
+6. Explanation:
+I chose the Dependency rule because the application of Blood Moon's effect is dependent on the existing types of lands on the battlefield. Since Urborg's effect makes all lands Swamps, including nonbasic lands affected by Blood Moon, the Dependency rule dictates that Urborg's effect takes precedence in this scenario. This results in all lands on the battlefield being considered Swamps, regardless of their original types, and gaining the ability to tap for black mana.

@@ -1,0 +1,18 @@
+1. Oracle texts and comments:
+- Urborg, Tomb of Yawgmoth: Each land is a Swamp in addition to its other land types. Comments: Urborg's ability causes each land on the battlefield to have the land type Swamp. Any land that's a Swamp has the ability "{T}: Add {B}". Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary, basic, or snow.
+- Blood Moon: Nonbasic lands are Mountains. Comments: Nonbasic lands will lose any other land types and abilities they had. They will gain the land type Mountain and gain the ability "{T}: Add {R}". This effect doesn't affect names or supertypes.
+
+2. Layer determination:
+The effects of these cards are applied in layer 4, the type-changing effects layer, as they both change the types of lands on the battlefield.
+
+3. Rule choice:
+I choose the Dependency rule (613.8) to determine the outcome.
+
+4. Summary of the rule:
+The Dependency rule states that if the effect of one card depends on the existence of another card's effect, the dependent effect is applied first.
+
+5. Judging:
+The continuous effect of Blood Moon is applied in the game. Urborg, Tomb of Yawgmoth's ability to make lands Swamps is dependent on the existence of nonbasic lands, which are changed to Mountains by Blood Moon. Since Urborg's effect depends on the type of lands affected by Blood Moon, Blood Moon's effect takes precedence.
+
+6. Explanation:
+I decided this way because the Dependency rule dictates that when one effect relies on the existence of another effect, the dependent effect is applied first. In this case, Urborg's ability to make lands Swamps is dependent on the lands being nonbasic, which are changed to Mountains by Blood Moon. Therefore, Blood Moon's effect is applied first, overriding Urborg's effect.

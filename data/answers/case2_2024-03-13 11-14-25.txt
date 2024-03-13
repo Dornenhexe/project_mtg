@@ -1,0 +1,15 @@
+1. **Opalescence**:
+   - Oracle Text: Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
+   - Comments: This card interacts with other enchantments on the battlefield, turning them into creatures with power and toughness equal to their mana value.
+
+2. **Humility**:
+   - Oracle Text: All creatures lose all abilities and have base power and toughness 1/1.
+   - Comments: This card removes all abilities from creatures and sets their power and toughness to 1/1.
+
+3. The effects of these cards are applied in different layers. Opalescence's effect falls under layer 4 (type-changing effects), while Humility's effect falls under layer 6 (ability-removing effects).
+
+4. **Rule**: Layers (613.1 to 613.7)
+
+5. **Judging**: The continuous effect of **Humility** is applied in the game. The effect of Humility falls under layer 6, which is applied after layer 4 where Opalescence's effect is applied. Therefore, Humility's effect of removing all abilities and setting power and toughness to 1/1 takes precedence over Opalescence's effect of turning enchantments into creatures with power and toughness equal to their mana value.
+
+6. **Explanation**: According to the layer system in Magic: The Gathering rules, effects are applied in a specific order, with each layer having a specific type of effect. In this case, Humility's effect of removing all abilities and setting power and toughness to 1/1 falls under a higher layer (layer 6) compared to Opalescence's effect of turning enchantments into creatures (layer 4). As a result, Humility's effect takes precedence and overrides Opalescence's effect in determining the final board state.

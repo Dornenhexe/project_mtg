@@ -1,0 +1,20 @@
+1. Oracle text and comments:
+- Humility: All creatures lose all abilities and have base power and toughness 1/1. Comments: The interaction between Humility and Opalescence involves layer 4 for type-changing effects, with the rest happening in applicable layers. The outcome depends on the timestamp order of the cards.
+- Opalescence: Each other non-Aura enchantment is a creature with base power and toughness equal to its mana value. Comments: The interaction with Humility also depends on the timestamp order and the layer in which the effects are applied.
+
+2. Layers on which effects are applied:
+The effects of Humility and Opalescence are applied in different layers, with Humility affecting abilities and power/toughness in layer 6 and Opalescence affecting the type-changing effect in layer 4.
+
+3. Summary of rules:
+- Timestamp (613.7): Determines the order in which continuous effects are applied based on their timestamps.
+- Dependency (613.8): Deals with effects that depend on each other for their application.
+- Overriding of effects (613.9): One continuous effect can override another based on the results of one effect determining whether another effect applies.
+
+4. Decision on the fitting rule:
+Based on the comments provided, the outcome of the interaction between Humility and Opalescence is determined by the timestamp order and the layer in which the effects are applied. Therefore, the most fitting rule is Timestamp and Layers (613.7).
+
+5. Judging regarding the chosen rule:
+The continuous effect of Humility is applied in the game. With Humility having the earlier timestamp, all creatures will be 4/4 with no abilities, as described in the comments.
+
+6. Explanation:
+The decision to apply the Timestamp and Layers rule is based on the specific interaction between Humility and Opalescence, where the timestamp order and layer in which the effects are applied play a crucial role in determining the outcome. By following the Timestamp rule, we ensure that the continuous effect of Humility takes precedence in this scenario.

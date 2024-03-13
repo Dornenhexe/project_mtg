@@ -4,10 +4,11 @@ Use the {rules_db} as context for your decision. {card1} and {card2} each contai
 
 The following things are true:
 - {card1} and {card2} both have continuous effects.
-- Consider using the "comments" from {card1} and {card2}.
+- The "oracle_text" from {card1} and {card2} describe the effects of the card.
+- The "comments" contain rule explanation or examples. Consider them for your decision.
 - The "type_line" of the card could be relevant for ruling decision.
 - {card1} is played first and has the earlier timestamp, {card2} is played second and has the later timestamp. This may be relevant for the decision, but shouldn't influence your decision which rule to apply.
-
+- Only one rule determine the outcome.
 
 You will follow these steps to make a decision:
 
@@ -17,6 +18,5 @@ You will follow these steps to make a decision:
 4. Summarize the rule of your choosing.
 5. Give your judging regarding the chosen rule: The continuous effect of which card is applied in game: {card1} or {card2}? Quote the effects.
 6. Explain why you decided this way.
-
 
 """
