@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="adapting prompt, clean-up">
+    <list default="true" id="f080927e-fcd0-4d05-a1ea-6e21d4e9bc17" name="Changes" comment="prompt and prompt testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/answers/case2_2024-03-12 16-22-34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/answers/case1_2024-03-12 16-22-34.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/answers/case2_2024-03-12 16-54-44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/answers/case1_2024-03-12 16-54-44.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/answers/case2_2024-03-12 17-03-02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/answers/case1_2024-03-12 17-03-02.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/old_prompts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/old_prompts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/prompts.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mtg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mtg.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/progress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prompt_continuouseffects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_continuouseffects.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +126,12 @@
       <workItem from="1709028025961" duration="26451000" />
       <workItem from="1709563290295" duration="14844000" />
       <workItem from="1709893205974" duration="4684000" />
-      <workItem from="1710237125283" duration="20976000" />
+      <workItem from="1710237125283" duration="21148000" />
+      <workItem from="1710412153911" duration="199000" />
+      <workItem from="1710412645193" duration="441000" />
+      <workItem from="1710413101111" duration="695000" />
+      <workItem from="1710413809186" duration="1906000" />
+      <workItem from="1710419476067" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="updated pipfile">
       <option name="closed" value="true" />
@@ -251,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710259821393</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="prompt and prompt testing">
+      <option name="closed" value="true" />
+      <created>1710340386385</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710340386385</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +293,7 @@
     <MESSAGE value="adding additional rulings to card informations via scryfall" />
     <MESSAGE value="save &amp; load cardinformations for quicker testing, refractor &amp; clean up,back to old prompt" />
     <MESSAGE value="adapting prompt, clean-up" />
-    <option name="LAST_COMMIT_MESSAGE" value="adapting prompt, clean-up" />
+    <MESSAGE value="prompt and prompt testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="prompt and prompt testing" />
   </component>
 </project>
